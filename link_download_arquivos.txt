@@ -1,7 +1,9 @@
 Baixe os arquivos, descompacte e mova-os para a pasta data
 
 Eleitorado
-https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_ATUAL.zip
+https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2012.zip
+https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2016.zip
+https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2020.zip
 
 Salarios
 https://cidades.ibge.gov.br/e3739d61-ffeb-474d-9641-018fe640fabb
