@@ -6,5 +6,12 @@ https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitora
 https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2020.zip
 
 Salarios
-https://cidades.ibge.gov.br/e3739d61-ffeb-474d-9641-018fe640fabb
+https://cidades.ibge.gov.br/brasil/sp/sao-paulo/pesquisa/19/29761
 
+
+Comparecimento e abstencao eleicoes
+https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_comparecimento_abstencao/perfil_comparecimento_abstencao_2020.zip
+
+
+Detalhe candidatos
+https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip
