@@ -15,3 +15,4 @@ https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_comparecimento_abstencao/p
 
 Detalhe candidatos
 https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip
+https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2012.zip
